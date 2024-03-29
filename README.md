@@ -24,6 +24,7 @@ To navigate through the resource library:
 - Open the desired section from the Contents.
 - Each section contains detailed files and folders related to the respective topic.
 - Use the provided documentation in each section for a deeper understanding of the data.
+- the Microcystis genome fasta file used in https://drive.google.com/drive/folders/1VdqlmgGhXmYsnli3uyY-NzXAJLTx5Zun
 
 ## Contribution
 
