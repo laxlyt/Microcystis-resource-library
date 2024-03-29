@@ -1,0 +1,89 @@
+node1	node2	weight	C_1	C_2	K_1	K_2	ko_1	ko_2	M_1	M_2	label1	label2
+947	1973	212	328	627								
+61	947	170	18	328								
+953	960	556	331	333	K23262						gvpa	gvpg
+960	7715	556	333	627		K23262					gvpg	gvpa
+953	954	474	331	331	K23262						gvpa	gvpc
+954	7715	474	331	627		K23262					gvpc	gvpa
+953	958	798	331	332	K23262						gvpa	gvpk
+958	7715	798	332	627		K23262					gvpk	gvpa
+953	955	811	331	331	K23262	K04748					gvpa	gvpn
+955	7715	811	331	627	K04748	K23262					gvpn	gvpa
+953	7715	404	331	627	K23262	K23262					gvpa	gvpa
+953	959	811	331	332	K23262						gvpa	gvpl,gvpf
+959	7715	811	332	627		K23262					gvpl,gvpf	gvpa
+953	963	369	331	333	K23262	K01551					gvpa	
+963	7715	369	333	627	K01551	K23262						gvpa
+953	962	525	331	333	K23262						gvpa	gvpl,gvpf,gvpw
+962	7715	525	333	627		K23262					gvpl,gvpf,gvpw	gvpa
+953	964	310	331	328	K23262						gvpa	ATPase
+964	7715	310	328	627		K23262					ATPase	gvpa
+953	956	823	331	332	K23262	K23262					gvpa	gvpj
+956	7715	823	332	627	K23262	K23262					gvpj	gvpa
+953	961	570	331	333	K23262						gvpa	gvpv
+961	7715	570	333	627		K23262					gvpv	gvpa
+954	958	733	331	332							gvpc	gvpk
+954	959	761	331	332							gvpc	gvpl,gvpf
+954	955	673	331	331		K04748					gvpc	gvpn
+954	962	759	331	333							gvpc	gvpl,gvpf,gvpw
+954	963	454	331	333		K01551					gvpc	
+954	964	253	331	328							gvpc	ATPase
+954	961	388	331	333							gvpc	gvpv
+954	960	732	331	333							gvpc	gvpg
+954	956	678	331	332		K23262					gvpc	gvpj
+955	961	570	331	333	K04748						gvpn	gvpv
+955	964	574	331	328	K04748						gvpn	ATPase
+955	962	915	331	333	K04748						gvpn	gvpl,gvpf,gvpw
+955	960	937	331	333	K04748						gvpn	gvpg
+955	957	745	331	332	K04748						gvpn	gvpj,gvpx
+955	963	703	331	333	K04748	K01551					gvpn	
+955	959	942	331	332	K04748						gvpn	gvpl,gvpf
+955	956	990	331	332	K04748	K23262					gvpn	gvpj
+955	958	941	331	332	K04748						gvpn	gvpk
+956	958	943	332	332	K23262						gvpj	gvpk
+956	960	871	332	333	K23262						gvpj	gvpg
+956	959	931	332	332	K23262						gvpj	gvpl,gvpf
+956	957	845	332	332	K23262						gvpj	gvpj,gvpx
+956	963	494	332	333	K23262	K01551					gvpj	
+956	962	864	332	333	K23262						gvpj	gvpl,gvpf,gvpw
+956	961	570	332	333	K23262						gvpj	gvpv
+956	964	453	332	328	K23262						gvpj	ATPase
+958	963	728	332	333		K01551					gvpk	
+958	960	985	332	333							gvpk	gvpg
+958	962	905	332	333							gvpk	gvpl,gvpf,gvpw
+958	964	603	332	328							gvpk	ATPase
+958	961	570	332	333							gvpk	gvpv
+958	959	986	332	332							gvpk	gvpl,gvpf
+959	963	749	332	333		K01551					gvpl,gvpf	
+959	962	909	332	333							gvpl,gvpf	gvpl,gvpf,gvpw
+959	960	985	332	333							gvpl,gvpf	gvpg
+959	961	570	332	333							gvpl,gvpf	gvpv
+959	964	576	332	328							gvpl,gvpf	ATPase
+960	963	771	333	333		K01551					gvpg	
+59	960	162	18	333								gvpg
+960	962	907	333	333							gvpg	gvpl,gvpf,gvpw
+58	960	190	18	333							gvp?	gvpg
+960	961	570	333	333							gvpg	gvpv
+960	964	568	333	328							gvpg	ATPase
+961	963	454	333	333		K01551					gvpv	
+961	962	820	333	333							gvpv	gvpl,gvpf,gvpw
+961	964	280	333	328							gvpv	ATPase
+962	963	910	333	333		K01551					gvpl,gvpf,gvpw	
+962	964	692	333	328							gvpl,gvpf,gvpw	ATPase
+58	962	226	18	333							gvp?	gvpl,gvpf,gvpw
+963	964	814	333	328	K01551							ATPase
+58	963	172	18	333		K01551					gvp?	
+964	1973	186	328	627							ATPase	
+60	964	195	18	328								ATPase
+62	1973	513	18	627								
+61	62	249	18	18								
+58	62	691	18	18							gvp?	
+59	62	463	18	18								
+58	61	288	18	18							gvp?	
+60	61	491	18	18								
+59	61	408	18	18								
+58	60	569	18	18							gvp?	
+59	60	571	18	18								
+59	1973	156	18	627								
+58	59	952	18	18							gvp?	
+58	1973	170	18	627							gvp?	
